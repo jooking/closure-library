@@ -1,0 +1,1 @@
+[Making Closure Library Less Verbose with goog.scope](https://docs.google.com/document/pub?id=1ETFAuh2kaXMVL-vafUYhaWlhl6b5D9TOvboVg7Zl68Y)
